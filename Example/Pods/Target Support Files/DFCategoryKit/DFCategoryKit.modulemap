@@ -1,0 +1,6 @@
+framework module DFCategoryKit {
+  umbrella header "DFCategoryKit-umbrella.h"
+
+  export *
+  module * { export * }
+}

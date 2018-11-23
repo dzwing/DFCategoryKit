@@ -1,0 +1,27 @@
+PODS:
+  - DFCategoryKit (0.1.0)
+  - Expecta (1.0.6)
+  - Specta (1.0.7)
+
+DEPENDENCIES:
+  - DFCategoryKit (from `../`)
+  - Expecta
+  - Specta
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Expecta
+    - Specta
+
+EXTERNAL SOURCES:
+  DFCategoryKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  DFCategoryKit: d8bbcf6d793ea4946456895cdb08451b0b015790
+  Expecta: 3b6bd90a64b9a1dcb0b70aa0e10a7f8f631667d5
+  Specta: 3e1bd89c3517421982dc4d1c992503e48bd5fe66
+
+PODFILE CHECKSUM: d62dfa854f137a6bc0772edfb19748cbd780ba3a
+
+COCOAPODS: 1.5.3

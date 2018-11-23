@@ -1,0 +1,22 @@
+{
+  "name": "DFCategoryKit",
+  "version": "0.1.0",
+  "summary": "This is DFCategoryKit.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/dzwing/DFCategoryKit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "dzwing": "2456793882@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/dzwing/DFCategoryKit.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "DFCategoryKit/Classes/**/*"
+}
