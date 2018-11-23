@@ -2,8 +2,8 @@
 //  UIColor+Extend.m
 //  aragorn
 //
-//  Created by Tester on 15/11/17.
-//  Copyright © 2015年 com.gogoal.cn. All rights reserved.
+//  Created by dzw on 18/11/23.
+//  Copyright © 2018年 dzw. All rights reserved.
 //
 
 #import "UIColor+Extend.h"
